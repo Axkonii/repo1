@@ -1,4 +1,4 @@
-Salut!
-ça va ?
-La famille ?
-Trkl ?
+info: data
+start 
+work
+end 
