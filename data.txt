@@ -1,10 +1,15 @@
 info: data
 start 
 work :
+<<<<<<< HEAD
 // new section
 Start :sub
     Task Test
 End : sub
+=======
+// add task zero
+task zero
+>>>>>>> 8089a01724b2694754a5415cd671306e7bf5c536
 task un
 task deux
 end
