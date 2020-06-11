@@ -1,9 +1,5 @@
 info: data
 start 
-Task0
-Sub Task0
 work
+task 1
 end 
-Start : 2
-Work 2
-end : 2
